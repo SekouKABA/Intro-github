@@ -30,6 +30,3 @@ Markdown allows you to create simple tables using pipes (|) and dashes (-). For 
 | Jane  | 28  |
 | James | 32  |
 
-### Code Blocks
-
-You can include code snippets in your Markdown document by enclosing them in backticks (`) or by using triple backticks (```). For example
